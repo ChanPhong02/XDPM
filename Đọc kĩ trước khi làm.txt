@@ -7,3 +7,5 @@ Lưu ý khi chạy nhớ add file jar vào lib
 Và chạy hàm Splash.java
 
 khi chạy ngoài những thứ trên hiển thị còn lại không cần dùng
+
+Khi click chọn xóa nhớ click 2 lần vô hàng cần xóa rồi bấm xóa
